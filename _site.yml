@@ -1,7 +1,11 @@
 name: "kylesha.github.io"
 output_dir: "."
 navbar:
-  title: "kylesha.github.io Website"
+  title: "Kyle \"Ky\" Sha"
   left:
     - text: "Home"
       href: index.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
