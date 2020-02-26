@@ -1,5 +1,8 @@
 ---
-title: "Home index.Rmd"
+title: ""
 ---
 
-Blah blah blah!
+
+# __Hello World__!
+
+## Please excuse the minimalism. This site is still in the early stages of construction!

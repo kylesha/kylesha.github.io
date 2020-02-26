@@ -1,0 +1,15 @@
+---
+title: ""
+---
+
+## [__All public repos__](https://github.com/kylesha)
+
+# \newline  
+# \newline  
+## [__RNAseq-snf2__](https://github.com/kylesha/rnaseq-snf2)  
+- #### [R code](https://github.com/kylesha/rnaseq-snf2/blob/master/RNAseq-snf2.Rmd)  
+- #### [html output](https://kylesha.github.io/rnaseq-snf2/)
+
+# \newline  
+# \newline  
+## [__DALEC__](https://github.com/kylesha/DALEC)  
