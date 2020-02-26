@@ -1,0 +1,7 @@
+name: "kylesha.github.io"
+output_dir: "."
+navbar:
+  title: "kylesha.github.io Website"
+  left:
+    - text: "Home"
+      href: index.html
