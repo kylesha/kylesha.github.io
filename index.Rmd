@@ -5,4 +5,4 @@ title: ""
 
 # __Hello World__!
 
-## Please excuse the minimalism. This site is still in the early stages of construction!
+## Please excuse the minimalism. This site is still in the early stages of construction! In the meantime, check out some of my repos.
