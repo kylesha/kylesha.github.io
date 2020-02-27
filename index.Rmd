@@ -5,4 +5,27 @@ title: ""
 
 # __Hello World__!
 
-## Please excuse the minimalism. This site is still in the early stages of construction! In the meantime, check out some of my repos.
+## Please excuse the minimalism. This site is still in the early stages of construction! In the meantime, check out some of my [repos](https://kylesha.github.io/repos.html).
+
+# \newline  
+# \newline  
+# \newline  
+# __Publications__  
+
+1. Anna Bruchez\*, Ky Sha\*, Joshua Johnson, Li Chen, Caroline Stefani, Hannah Mcconnell, Lea Gaucherand, Rachel Prins, Kenneth A Matreyek, Adam J Hume, Elke Muhlberger, Emmett V Schmidt, Gene G Olinger, Lynda M Stuart, and Adam Lacy-Hulbert (2020).  
+__*MHC class II transactivator CIITA induces cellular resistance to Ebola virus infection.*__  
+[*contributed equally; revised submission to Science]  
+
+2. Ky Sha, Sam G. Gu, Luiz C. Pantalena-Filho, Amy Goh, Jamie Fleenor, Daniel Blanchard, Chaya Krishna, and Andrew Fire. (2010). [Distributed probing of chromatin structure in vivo reveals pervasive chromatin accessibility for expressed and non-expressed genes during tissue differentiation in C. elegans.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3091661/) BMC Genomics. 2010 Aug 6;11:465.  
+
+3. Ky Sha and Laurie Boyer (2008). [The Chromatin Signature of Pluripotent Cells.](https://www.stembook.org/node/585)  
+
+4. Mariano Labrador, Ky Sha, Alice Li, and Victor G. Corces (2008). [Insulator and Ovo Proteins Determine the Frequency and Specificity of Insertion of the gypsy retrotransposon in Drosophila melanogaster.](https://www.genetics.org/content/180/3/1367.long) Genetics 180:1367–1378.  
+
+5. Menno P. Creyghton, Styliani Markoulaki, Stuart S. Levine, Jacob Hanna, Michael A. Lodato, Ky Sha, Richard A. Young, Rudolf Jaenisch, and Laurie A. Boyer (2008). [H2A.Z Is Enriched at Polycomb Complex Target Genes in ES Cells and Is Necessary for Lineage Commitment.](https://www.ncbi.nlm.nih.gov/pubmed/18992931) Cell 135:649-661.  
+
+6. Ky Sha (2008). [A Mechanistic View of Genomic Imprinting.](https://www.annualreviews.org/doi/abs/10.1146/annurev.genom.122007.110031?rfr_dat=cr_pub%3Dpubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&journalCode=genom) Ann. Rev. Genomics and Human Genetics 9: 197-216.  
+
+7. Ky Sha and Andrew Fire (2005). [Imprinting Capacity of Gamete Lineages in Caenorhabditis elegans.](https://www.genetics.org/content/170/4/1633.long) Genetics 170:1633-1652.  
+
+8. Insoon Kim, Frederick D. Hempel, Kyle Sha, Jennifer Pfluger, and Patricia C. Zambryski (2002). [Identification of a developmental transition in plasmodesmatal function during embryogenesis in Arabidopsis thaliana.](http://dev.biologists.org/content/129/5/1261.long) Development 129: 1261-1272.
