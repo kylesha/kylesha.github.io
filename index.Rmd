@@ -5,7 +5,7 @@ title: ""
 
 # __Hello World__!
 
-## Please excuse the minimalism. This site is still in the early stages of construction! In the meantime, check out some of my [repos](https://kylesha.github.io/repos.html) (also a work in progress).
+## Please excuse the minimalism. This site is still in the early stages of construction! In the meantime, check out some of my [public repos](https://kylesha.github.io/repos.html) (also a work in progress).
 
 # \newline  
 # \newline  
