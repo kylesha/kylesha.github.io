@@ -1,0 +1,13 @@
+name: "kylesha.github.io"
+output_dir: "."
+navbar:
+  title: "Kyle \"Ky\" Sha"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "GitHub Repos"
+      href: repos.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
